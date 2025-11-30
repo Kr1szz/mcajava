@@ -1,4 +1,3 @@
-package p04;
 import java.util.Scanner;
 
 abstract class Printer {
