@@ -20,7 +20,7 @@ public class Area {
         double base = sc.nextDouble();
         System.out.print("Enter height of Triangle: ");
         double height = sc.nextDouble();
-        Tri t = new Tri(base, height);
+        Triangle t = new Tri(base, height);
 
         System.out.println("\nArea of Square: " + s.getArea());
         System.out.println("Area of Circle: " + c.getArea());
