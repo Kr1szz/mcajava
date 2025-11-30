@@ -9,6 +9,7 @@ class DotMatrix extends Printer {
     public void configuration() {
         System.out.println("Dot-Matrix: 250 cps, 180 dpi");
     }
+    
     public void display() {
         System.out.println("Dot-Matrix Printer: Good for multi-copy printing.");
     }
