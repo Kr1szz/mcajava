@@ -1,3 +1,3 @@
 # GeneriDemo.java
 
-based all the changes(sending array + menu driven) that were asked
+based on all the changes(sending array + menu driven) that were asked
